@@ -4,6 +4,15 @@ Slides da presentare all'Academy on Labour Migration (ITC-ILO, Torino, 23 luglio
 
 Presentazione: https://pcorreia-it.github.io/codiasco-alm-2026/
 
+## Versioni
+
+| Versione | Link | Cosa |
+|---|---|---|
+| Conduzione (EN · FR) | https://pcorreia-it.github.io/codiasco-alm-2026/ | la presentazione portata all'Academy il 23/07/2026, con note del relatore (`N`), timer (`T`) e pannello dei brief immagine (`◉`) |
+| Divulgazione (PT · EN · FR) | https://pcorreia-it.github.io/codiasco-alm-2026/pt/ | **stessa presentazione, tradotta in portoghese** e apre in portoghese. Versione pubblica: note del relatore, brief immagine e timer **rimossi dal file**; restano navigazione, menu, cambio lingua (`L`), animazioni, schermo intero, vista statica (`F`) e stampa (`P`). I crediti fotografici restano nel pannello `◉` |
+
+La versione in portoghese (25/07/2026) è una traduzione fedele: nessuna modifica di narrativa, dati o immagini. Serve alla mobilitazione dei territori di origine per il desk Codiasco a Terra Madre Off (Torino, 26/09/2026).
+
 ## Crediti fotografici
 
 Le fotografie incluse nella presentazione provengono da Wikimedia Commons e sono utilizzate secondo le rispettive licenze:
