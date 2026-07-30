@@ -2,16 +2,22 @@
 
 Slides da presentare all'Academy on Labour Migration (ITC-ILO, Torino, 23 luglio 2026).
 
-Presentazione: https://pcorreia-it.github.io/codiasco-alm-2026/
+Sito: https://pcorreia-it.github.io/codiasco-alm-2026/
 
-## Versioni
+## Versioni (dal 30/07/2026: una URL pubblica e stabile per lingua)
 
 | Versione | Link | Cosa |
 |---|---|---|
-| Conduzione (EN · FR) | https://pcorreia-it.github.io/codiasco-alm-2026/ | la presentazione portata all'Academy il 23/07/2026, con note del relatore (`N`), timer (`T`) e pannello dei brief immagine (`◉`) |
-| Divulgazione (PT · EN · FR) | https://pcorreia-it.github.io/codiasco-alm-2026/pt/ | **stessa presentazione, tradotta in portoghese** e apre in portoghese. Versione pubblica: note del relatore, brief immagine e timer **rimossi dal file**; restano navigazione, menu, cambio lingua (`L`), animazioni, schermo intero, vista statica (`F`) e stampa (`P`). I crediti fotografici restano nel pannello `◉` |
+| Selettore di lingua | https://pcorreia-it.github.io/codiasco-alm-2026/ | pagina di ingresso: scelta della lingua + link discreto alla versione di conduzione |
+| Pubblica — Português | https://pcorreia-it.github.io/codiasco-alm-2026/pt/ | versione di divulgazione in portoghese |
+| Pubblica — Italiano | https://pcorreia-it.github.io/codiasco-alm-2026/it/ | versione di divulgazione in italiano (traduzione 30/07/2026) |
+| Pubblica — English | https://pcorreia-it.github.io/codiasco-alm-2026/en/ | versione di divulgazione in inglese (testi della conduzione, invariati) |
+| Pubblica — Français | https://pcorreia-it.github.io/codiasco-alm-2026/fr/ | versione di divulgazione in francese (testi della conduzione, invariati) |
+| Conduzione (EN · FR) | https://pcorreia-it.github.io/codiasco-alm-2026/present/ | la presentazione portata all'Academy il 23/07/2026, **preservata integralmente**: note del relatore (`N`), timer (`T`), pannello dei brief immagine (`◉`), cambio lingua (`L`) |
 
-La versione in portoghese (25/07/2026) è una traduzione fedele: nessuna modifica di narrativa, dati o immagini. Serve alla mobilitazione dei territori di origine per il desk Codiasco a Terra Madre Off (Torino, 26/09/2026).
+Le quattro versioni pubbliche nascono da **un'unica fonte quadrilingue** (pt·it·en·fr): note del relatore, brief immagine e timer restano rimossi dal file; restano navigazione, menu, animazioni, schermo intero, vista statica (`F`) e stampa (`P`). Il selettore di lingua è un gruppo di **link con URL stabili** (niente più toggle interno); le fotografie sono condivise in `/assets/` invece di essere duplicate per lingua. I crediti fotografici restano nel pannello `◉`.
+
+La versione in portoghese (25/07/2026) è una traduzione fedele: nessuna modifica di narrativa, dati o immagini. Serve alla mobilitazione dei territori di origine per il desk Codiasco a Terra Madre Off (Torino, 26/09/2026). La versione italiana (30/07/2026) segue lo stesso criterio, a partire dalla stessa fonte.
 
 ## Crediti fotografici
 
